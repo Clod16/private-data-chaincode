@@ -55,7 +55,7 @@ var Chaincode = class {
     }
   }
 
-  async queryPrivateCar(stub, args) {
+  async getPrivateCar(stub, args) {
     logger.info("****getPrivateData***");
 
     let carKey = stub.createCompositeKey("privateData", args[0]);

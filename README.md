@@ -2,6 +2,7 @@
 
 ## Collection usage:
 
+[Private Data in Node.js documentation](https://fabric-sdk-node.github.io/tutorial-private-data.html) 
 
 Field|Description
  -------|------
